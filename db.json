@@ -1,0 +1,674 @@
+{
+  "pizzas": [
+    {
+      "id": 1,
+      "product": "pizzas",
+      "name": "4 Seasons",
+      "photo": "https://lodough.co/cdn/shop/articles/Four_Seasons.jpg?v=1615284917",
+      "rating": 5,
+      "ingredients": [
+        "Bacon",
+        "Ham",
+        "Mushrooms",
+        "Chicken",
+        "Onion",
+        "Olives",
+        "Pickles"
+      ],
+      "sizes": [
+        {
+          "name": "20 cm",
+          "price": 200
+        },
+        {
+          "name": "28 cm",
+          "price": 300
+        },
+        {
+          "name": "30 cm",
+          "price": 400
+        }
+      ],
+      "doughs": [
+        {
+          "name": "Traditional",
+          "price": 100
+        },
+        {
+          "name": "Classic",
+          "price": 200
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "product": "pizzas",
+      "name": "EASY PEASY Chicken A La Horseradish",
+      "photo": "https://lavpizza.ru/wp-content/uploads/2021/05/kurica.png",
+      "ingredients": [
+        "Chicken",
+        "Onion",
+        "Carbonara Sauce"
+      ],
+      "rating": 5,
+      "sizes": [
+        {
+          "name": "20 cm",
+          "price": 100
+        },
+        {
+          "name": "28 cm",
+          "price": 200
+        },
+        {
+          "name": "30 cm",
+          "price": 300
+        }
+      ],
+      "doughs": [
+        {
+          "name": "Traditional",
+          "price": 100
+        },
+        {
+          "name": "Classic",
+          "price": 200
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "product": "pizzas",
+      "name": "Sweet Chili Chicken",
+      "photo": "https://edimdoma.ru/data/recipes/0009/8815/98815-ed4_wide.jpg?1628786624",
+      "rating": 3,
+      "ingredients": [
+        "Chicken",
+        "Onion",
+        "Jalapeno Peppers",
+        "Mozzarella Cheese",
+        "Tomato Sauce"
+      ],
+      "sizes": [
+        {
+          "name": "20 cm",
+          "price": 100
+        },
+        {
+          "name": "28 cm",
+          "price": 200
+        },
+        {
+          "name": "30 cm",
+          "price": 300
+        }
+      ],
+      "doughs": [
+        {
+          "name": "Traditional",
+          "price": 100
+        },
+        {
+          "name": "Classic",
+          "price": 200
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "product": "pizzas",
+      "name": "EASY PEASY Cucumber Rampage",
+      "photo": "https://images.gastronom.ru/6nVMfIY0Ou7uMcOuXuFnx0kEcBx9YxL4mmzIjzP02-Q/pr:recipe-cover-image/g:ce/rs:auto:0:0:0/L2Ntcy9hbGwtaW1hZ2VzLzNhYzljMzI1LWVmNmQtNDJkZi05NjJlLTdiN2E1MjNhNzc5Mi5qcGc",
+      "ingredients": [
+        "Chicken",
+        "Onion",
+        "Jalapeno Peppers"
+      ],
+      "rating": 5,
+      "sizes": [
+        {
+          "name": "20 cm",
+          "price": 100
+        },
+        {
+          "name": "28 cm",
+          "price": 200
+        },
+        {
+          "name": "30 cm",
+          "price": 300
+        }
+      ],
+      "doughs": [
+        {
+          "name": "Traditional",
+          "price": 100
+        },
+        {
+          "name": "Classic",
+          "price": 200
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "product": "pizzas",
+      "name": "EASY PEASY Pepperoni",
+      "photo": "https://static.pizzasushiwok.ru/images/menu_new/6-1300.jpg",
+      "ingredients": [
+        "Tomato Sauce",
+        "Mozzarella",
+        "Pepperoni"
+      ],
+      "rating": 5,
+      "sizes": [
+        {
+          "name": "20 cm",
+          "price": 100
+        },
+        {
+          "name": "28 cm",
+          "price": 200
+        },
+        {
+          "name": "30 cm",
+          "price": 300
+        }
+      ],
+      "doughs": [
+        {
+          "name": "Traditional",
+          "price": 100
+        },
+        {
+          "name": "Classic",
+          "price": 200
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "product": "pizzas",
+      "name": "EASY PEASY Hawaiian",
+      "photo": "https://ist.say7.info/img0002/23/223_0157t52_9606_1024.jpg",
+      "ingredients": [
+        "Chicken",
+        "Onion",
+        "Jalapeno Peppers",
+        "Pineapple"
+      ],
+      "rating": 5,
+      "sizes": [
+        {
+          "name": "20 cm",
+          "price": 100
+        },
+        {
+          "name": "28 cm",
+          "price": 200
+        },
+        {
+          "name": "30 cm",
+          "price": 300
+        }
+      ],
+      "doughs": [
+        {
+          "name": "Traditional",
+          "price": 100
+        },
+        {
+          "name": "Classic",
+          "price": 200
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "product": "pizzas",
+      "name": "EASY PEASY Cheese",
+      "photo": "https://momentopizza.ru/upload/shop_4/2/1/6/item_216/item_216.jpg",
+      "ingredients": [
+        "Mozzarella Cheese",
+        "Suluguni Cheese",
+        "Cream Sauce",
+        "Egg",
+        "Oregano",
+        "Garlic Butter"
+      ],
+      "rating": 5,
+      "sizes": [
+        {
+          "name": "20 cm",
+          "price": 100
+        },
+        {
+          "name": "28 cm",
+          "price": 200
+        },
+        {
+          "name": "30 cm",
+          "price": 300
+        }
+      ],
+      "doughs": [
+        {
+          "name": "Traditional",
+          "price": 100
+        },
+        {
+          "name": "Classic",
+          "price": 200
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "product": "pizzas",
+      "name": "EASY PEASY Rustic",
+      "photo": "https://momentopizza.ru/upload/shop_4/2/2/2/item_222/item_222.jpg",
+      "ingredients": [
+        "Mozzarella Cheese",
+        "Cream Sauce",
+        "Ham",
+        "Smoked Chicken",
+        "Mushrooms",
+        "Tomatoes",
+        "Oregano",
+        "Dill",
+        "Garlic Butter"
+      ],
+      "rating": 5,
+      "sizes": [
+        {
+          "name": "20 cm",
+          "price": 100
+        },
+        {
+          "name": "28 cm",
+          "price": 200
+        },
+        {
+          "name": "30 cm",
+          "price": 300
+        }
+      ],
+      "doughs": [
+        {
+          "name": "Traditional",
+          "price": 100
+        },
+        {
+          "name": "Classic",
+          "price": 200
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "product": "pizzas",
+      "name": "EASY PEASY Vegetarian",
+      "photo": "https://momentopizza.ru/upload/shop_4/2/2/1/item_221/item_221.jpg",
+      "ingredients": [
+        "Mozzarella Cheese",
+        "Pizza Sauce",
+        "Broccoli",
+        "Mushrooms",
+        "Tomatoes",
+        "Bell Peppers",
+        "Onion",
+        "Olives",
+        "Oregano",
+        "Garlic Butter"
+      ],
+      "rating": 5,
+      "sizes": [
+        {
+          "name": "20 cm",
+          "price": 100
+        },
+        {
+          "name": "28 cm",
+          "price": 200
+        },
+        {
+          "name": "30 cm",
+          "price": 300
+        }
+      ],
+      "doughs": [
+        {
+          "name": "Traditional",
+          "price": 100
+        },
+        {
+          "name": "Classic",
+          "price": 200
+        }
+      ]
+    }
+  ],
+  "rolls": [
+    {
+      "id": 1,
+      "product": "rolls",
+      "rating": 1,
+      "name": "Philadelphia",
+      "photo": "https://lh7-us.googleusercontent.com/DuQJbagl1QUMUsvB3JpjehqGb_lOrC2LvRiuOcrH78MfjjUn1-72t9Catjbh-0Y3He-tHLP7qSpwogjHLHUsAStvq0q4uCH2JXb0BgEiySfUbhRZReqbngdd0_pJYWFXDYOdB4uEEVqRq2wxn_ZO7bo",
+      "pieces": [
+        {
+          "name": "5 pcs",
+          "price": 400
+        },
+        {
+          "name": "10 pcs",
+          "price": 650
+        }
+      ],
+      "ingredients": [
+        "rice",
+        "nori",
+        "cheese",
+        "salmon"
+      ]
+    },
+    {
+      "id": 2,
+      "product": "rolls",
+      "rating": 3,
+      "name": "Unagi",
+      "photo": "https://lh7-us.googleusercontent.com/DEf7GS3JGlnBpMWtpVCz4iCpBk0_v1Nae6jq59uKP5PhJokLZUC7RDH61FlGsvNYRlmF05BFkXnw3YIhRAdC_WG3myRzv0vUY7eP-lFuJfsEcSz9QFJ7Oy_lWkWc5opMMlPO4YzaMaN7JCM8d_E3GUs",
+      "pieces": [
+        {
+          "name": "5 pcs",
+          "price": 450
+        },
+        {
+          "name": "10 pcs",
+          "price": 900
+        }
+      ],
+      "ingredients": [
+        "rice",
+        "nori",
+        "cheese",
+        "eel"
+      ]
+    },
+    {
+      "id": 3,
+      "product": "rolls",
+      "name": "Chiki-Piki",
+      "rating": 4,
+      "photo": "https://lh7-us.googleusercontent.com/n-J8mjDzipBO4-UHBxn__cmdKWJOHUaaHh__mQSiUfJPoohOYrdm624wIlLJHkjShTmY4zZBpYVQtiqjkFxqUjGkamUwOq0icfmtd3PhxF1Y6kuvpR-gE_PlgBBoDXodZoiotMM3lCS-Go1L9UTSXjg",
+      "pieces": [
+        {
+          "name": "5 pcs",
+          "price": 300
+        },
+        {
+          "name": "10 pcs",
+          "price": 500
+        }
+      ],
+      "ingredients": [
+        "cucumbers",
+        "salmon",
+        "eel"
+      ]
+    },
+    {
+      "id": 4,
+      "product": "rolls",
+      "name": "Masquerade",
+      "rating": 2,
+      "photo": "https://mrcheee.ru/d/roll-s-krabom.png",
+      "pieces": [
+        {
+          "name": "5 pcs",
+          "price": 200
+        },
+        {
+          "name": "10 pcs",
+          "price": 300
+        }
+      ],
+      "ingredients": [
+        "crab",
+        "nori"
+      ]
+    },
+    {
+      "id": 5,
+      "product": "rolls",
+      "name": "Baked Crab",
+      "rating": 5,
+      "photo": "https://amigos51.ru/nuber/images/shop/product/89932df4-71d0-4bd4-aab0-d3a3607e5e72/907e787a-fad8-4204-b16f-51d8b7724b15.jpg",
+      "pieces": [
+        {
+          "name": "5 pcs",
+          "price": 300
+        },
+        {
+          "name": "10 pcs",
+          "price": 400
+        }
+      ],
+      "ingredients": [
+        "crab meat",
+        "cucumber",
+        "cream cheese",
+        "masago roe"
+      ]
+    },
+    {
+      "id": 6,
+      "product": "rolls",
+      "name": "Baked Roll with Scallop",
+      "rating": 4,
+      "photo": "https://tokyo-bar.ru/upload/iblock/6b8/4i7r2x22jna0utj9bjcy3vpvzf3skbt3/zapechyonnyj_roll_s_grebeshkom.jpg",
+      "pieces": [
+        {
+          "name": "5 pcs",
+          "price": 300
+        },
+        {
+          "name": "10 pcs",
+          "price": 400
+        }
+      ],
+      "ingredients": [
+        "ginger",
+        "scallop fillet",
+        "tempura",
+        "cream cheese"
+      ]
+    },
+    {
+      "id": 7,
+      "product": "rolls",
+      "name": "Tempura Roll",
+      "rating": 2,
+      "photo": "https://static.1000.menu/res/640/img/content-v2/22/c1/23175/roll-tempura-v-domashnix-usloviyax-sushi_1633842566_23_max.jpg",
+      "pieces": [
+        {
+          "name": "5 pcs",
+          "price": 300
+        },
+        {
+          "name": "10 pcs",
+          "price": 400
+        }
+      ],
+      "ingredients": [
+        "salmon",
+        "tempura",
+        "cucumber",
+        "rice"
+      ]
+    },
+    {
+      "id": 8,
+      "product": "rolls",
+      "name": "Spicy Roll with Salmon and Crab",
+      "rating": 2,
+      "photo": "https://cdn.tokyo-city.ru/goods/800_520_roll_krab_664365f654a74.jpg",
+      "pieces": [
+        {
+          "name": "5 pcs",
+          "price": 300
+        },
+        {
+          "name": "10 pcs",
+          "price": 400
+        }
+      ],
+      "ingredients": [
+        "salmon",
+        "snow crab",
+        "cucumber",
+        "mayonnaise",
+        "sauces"
+      ]
+    },
+    {
+      "id": 9,
+      "product": "rolls",
+      "name": "Roll with Eel and Shrimp",
+      "rating": 2,
+      "photo": "https://cdn.tokyo-city.ru/goods/800_520_Roll_s_ugrem_i_krevetkami_663bcf5b97d33.jpg",
+      "pieces": [
+        {
+          "name": "5 pcs",
+          "price": 300
+        },
+        {
+          "name": "10 pcs",
+          "price": 400
+        }
+      ],
+      "ingredients": [
+        "eel",
+        "shrimp",
+        "cream cheese",
+        "iceberg lettuce"
+      ]
+    },
+    {
+      "id": 10,
+      "product": "rolls",
+      "name": "Eel Tempura",
+      "rating": 2,
+      "photo": "https://cdn.tokyo-city.ru/goods/_0005_ugor_tempura.jpg",
+      "pieces": [
+        {
+          "name": "5 pcs",
+          "price": 300
+        },
+        {
+          "name": "10 pcs",
+          "price": 400
+        }
+      ],
+      "ingredients": [
+        "eel",
+        "clary",
+        "avocado",
+        "rice",
+        "nori seaweed"
+      ]
+    }
+  ],
+  "other": [
+    {
+      "id": 1,
+      "rating": 3,
+      "product": "other",
+      "name": "Coca-Cola",
+      "photo": "https://fikiwiki.com/uploads/posts/2022-02/1644920268_3-fikiwiki-com-p-krasivie-kartinki-koka-kola-3.jpg",
+      "price": 120,
+      "description": "Non-alcoholic carbonated soda"
+    },
+    {
+      "id": 2,
+      "rating": 5,
+      "product": "other",
+      "name": "Sprite",
+      "photo": "https://www.coca-cola.com/content/dam/onexp/by/be/brands/sprite/REN2304-00590_BIC_SP_NRPET_500ml__FR_D_Closed_54491069_803.png",
+      "price": 120,
+      "description": "Non-alcoholic carbonated soda"
+    },
+    {
+      "id": 3,
+      "rating": 2,
+      "product": "other",
+      "name": "Fanta",
+      "photo": "https://cheremiskin.ru/upload/iblock/3c4/3c4ff80124f3d3115207768e23f5e870.png",
+      "price": 120,
+      "description": "Non-alcoholic carbonated soda"
+    },
+    {
+      "id": 4,
+      "rating": 4,
+      "product": "other",
+      "name": "Pepsi",
+      "photo": "https://cdn-img.perekrestok.ru/i/800x800-fit/xdelivery/files/b6/af/56d742fcaee154a180125cb85648.jpg",
+      "price": 120,
+      "description": "Non-alcoholic carbonated soda"
+    },
+    {
+      "id": 5,
+      "rating": 3,
+      "product": "other",
+      "name": "Tea",
+      "photo": "https://e2.edimdoma.ru/data/ingredients/0000/1200/1200-ed4_wide.jpg?1515760357",
+      "price": 60,
+      "description": "Black tea"
+    },
+    {
+      "id": 6,
+      "rating": 2,
+      "product": "other",
+      "name": "Tea",
+      "photo": "https://e2.edimdoma.ru/data/ingredients/0000/1200/1200-ed4_wide.jpg?1515760357",
+      "price": 60,
+      "description": "Black tea (with bergamot)"
+    },
+    {
+      "id": 7,
+      "rating": 8,
+      "product": "other",
+      "name": "Tea",
+      "photo": "https://teashop.spb.ru/image/cache/data/tk/blackteawithadditives1/tea-with-mint/tea-with-mint-600x600.jpg",
+      "price": 60,
+      "description": "Black tea with mint"
+    },
+    {
+      "id": 8,
+      "rating": 1,
+      "product": "other",
+      "name": "Tea",
+      "photo": "https://101tea.ru/upload/ammina.optimizer/jpg-webp/q70/upload/iblock/3a4/3ar53lodc642zp3ro70s778vptundi2u.webp",
+      "price": 60,
+      "description": "Green tea"
+    },
+    {
+      "id": 9,
+      "rating": 3,
+      "product": "other",
+      "name": "Tea",
+      "photo": "https://cdnn21.img.ria.ru/images/07e5/03/03/1599798800_0:95:3072:1823_1920x0_80_0_0_4ae9f8f8f42e9798201ec86aae4b0fda.jpg",
+      "price": 60,
+      "description": "Ivan Tea"
+    },
+    {
+      "id": 10,
+      "rating": 3,
+      "product": "other",
+      "name": "Tea",
+      "photo": "https://tea-vip.ru/wp-content/uploads/2021/10/VK-26997.png",
+      "price": 60,
+      "description": "Milk Oolong Tea"
+    }
+  ]
+}
